@@ -1,3 +1,6 @@
+now it is permitted.
+
+
 This is a grammar file.
 for testing purpose Pronoun: is a word
 something is hahhahah
