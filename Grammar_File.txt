@@ -1,6 +1,6 @@
 now it is permitted.
 
-
+The about page to this repo has added.
 This is a grammar file.
 for testing purpose Pronoun: is a word
 something is hahhahah
@@ -11,7 +11,7 @@ this is a new version of blog.
 Pronouns take the place of a person, place, or thing in sentences once the context is understood. For example:
 
 Peter enjoys walking his dog in the park. He often walks three or more miles with him.
-
+and you can enjoy this file.
 
 In this case, the pronouns 'he' in the second sentence replaces 'Peter', and the object 'him' replaces 'his dog'. Pronouns are used in all languages including English to simplify the language. English learners should learn the following types of pronouns, paying special attention to minor differences between each form.​
 
