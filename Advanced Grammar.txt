@@ -3,10 +3,67 @@ examples: they act in an unethical way
 2: we are working on our project actively
 3: I work hard to become master of business administration
 4: do they speak spanish?
+Adverbs:
+Adverd modify or describe a verb, adjective or another adverb or word group. This modification can provide information relating to time, place, manner, cause, degreeor circumstance.
+Examples:
+    *Sara ran very quickly to school.
+    *She speaks softly.
+    *He did his homework lazily.
 
+*Adverbs of Manner:
+Adverbs of manner provide information on how someone does something. Adverbs of manner are most often used with action verbs. Adverbs of manner include: slowly, fast, carefully, carelessly, effortlessly, urgently, etc. Adverbs of manner can be placed at the end of sentences or directly before or after the verb. 
+
+   *Jack drives very carefully.
+   *He won the tennis match effortlessly.
+   *She slowly opened the present. 
+
+ *Adverbs of Time and Frequency:
+Adverbs of time provide information on when something happens. Adverbs of time can express a specific time such as in two days, yesterday, three weeks ago, etc. Adverbs of time are usually placed at the end of sentences, though they sometimes begin a sentence.
+
+Examples:
+
+   *We'll let you know our decision next week.
+   *I flew to Dallas three weeks ago.
+   *Yesterday, I received a letter from my friend in Belfast.
+
+Adverbs of frequency are similar to adverbs of time except that they express how often something happens. Adverbs of frequency are placed before the main verb. They are placed after the verb 'be'. Here is a list of the most common adverbs of frequency beginning with the most often to the least often:
+
+always
+almost always
+usually
+often
+sometimes
+occasionally
+seldom 
+rarely
+almost never
+never
+
+Examples:
+
+  *He seldom takes a vacation.
+  *Jennifer occasionally goes to the movies.
+  *Tom is never late for work. 
+
+ *Adverbs of Degree: 
+Adverbs of degree provide information concerning how much of something is done. These adverbs are often placed at the end of a sentence.
+
+Examples:
+
+   *They like playing golf a lot.
+   *She decided that she doesn't enjoy watching TV at all. 
+   *She nearly flew to Boston, but decided not to go in the end. 
+
+ *Adverbs of Place:
+Adverbs of place tell us where something happened. They include works such as nowhere, anywhere, outside, everywhere, etc. 
+
+Examples
+
+   *Tom will go anywhere with his dog.
+   *You'll find that there is nowhere like home.
+   *She found the box outside. 
 
 .A verb is a kind of word (part of speech) that tells about an action or a state. It is the main part of a sentence: every sentence has a verb. ... 
 For example, in some other languages e.g., Chinese & Indonesian) verbs do not change for past and present tense.
 
-
-
+Examples:
