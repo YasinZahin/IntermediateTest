@@ -1,1 +1,3 @@
 Verb is a word which shows action or state.
+examples: they act in an unethical way
+
