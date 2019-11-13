@@ -5,4 +5,8 @@ examples: they act in an unethical way
 4: do they speak spanish?
 
 
+.A verb is a kind of word (part of speech) that tells about an action or a state. It is the main part of a sentence: every sentence has a verb. ... 
+For example, in some other languages e.g., Chinese & Indonesian) verbs do not change for past and present tense.
+
+
 
