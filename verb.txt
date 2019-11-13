@@ -1,3 +1,6 @@
 Verb is a word which shows action or state.
 examples: they act in an unethical way
+2: we are working on our project actively
+3: I work hard to become master of business administration
+4: do they speak spanish?
 
