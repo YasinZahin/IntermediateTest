@@ -5,3 +5,7 @@ examples: they act in an unethical way
 4: do they speak spanish?
 Adverbs:
 Adverd modify or describe a verb, adjective or another adverb or word group. This modification can provide information relating to time, place, manner, cause, degreeor circumstance.
+Examples:
+    *Sara ran very quickly to school.
+    *She speaks softly.
+    *He did his homework lazily.
