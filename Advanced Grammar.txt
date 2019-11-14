@@ -9,7 +9,12 @@ verb: is a word which the describe the state of a noun and pronoun!
 Example: he is driving a car!
 Adjective: is word which is discribe the noun and pronoun!
 Example: saeeda is a good meeting manager!
-h 
+Adverbs:
+Adverd modify or describe a verb, adjective or another adverb or word group. This modification can provide information relating to time, place, manner, cause, degreeor circumstance.
+Examples:
+    *Sara ran very quickly to school.
+    *She speaks softly.
+    *He did his homework lazily.
 +=========================================================================================================+
 Verb is a word which shows action or state.
 examples: they act in an unethical way
