@@ -4,7 +4,8 @@ i will try my best to do this work in a best way!
 --------------------------------
 Grammar: is the structure of a language!
 ------------------------------------------
-part Of Speech: A part of speech is one of the nine types of English words: VERB, NOUN, ADJECTIVE, ADVERB, PRONOUN, PREPOSITION, DETERMINER, CONJUNCTION, INTERJECTION. 
+part Of Speech: A part of speech is one of the nine types of English words: VERB, NOUN, ADJECTIVE, ADVERB, PRONOUN, PREPOSITION, DETERMINER, CONJUNCTION, INTERJECTION.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Noun: is word which is use for the name of person, place, thing and idea!
 Example: he is drining the water!
 Pronoun: is a word which use instead of noun to prevent the repeatation of noun!
