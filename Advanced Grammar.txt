@@ -23,6 +23,24 @@ Examples:
    *Jack drives very carefully.
    *He won the tennis match effortlessly.
    *She slowly opened the present.
+Adverbs of frequency are similar to adverbs of time except that they express how often something happens. Adverbs of frequency are placed before the main verb. They are placed after the verb 'be'. Here is a list of the most common adverbs of frequency beginning with the most often to the least often:
+
+always
+almost always
+usually
+often
+sometimes
+occasionally
+seldom 
+rarely
+almost never
+never
+
+Examples:
+
+  *He seldom takes a vacation.
+  *Jennifer occasionally goes to the movies.
+  *Tom is never late for work. 
 +=========================================================================================================+
 Verb is a word which shows action or state.
 examples: they act in an unethical way
