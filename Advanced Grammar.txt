@@ -7,6 +7,9 @@ Pronoun: is a word which use instead of noun to prevent the repeatation of noun!
 Example: ahamd is a driver!
 verb: is a word which the describe the state of a noun and pronoun!
 Example: he is driving a car!
+Adjective: is word which is discribe the noun and pronoun!
+Example: saeeda is a good meeting manager!
+ 
 +=========================================================================================================+
 Verb is a word which shows action or state.
 examples: they act in an unethical way
