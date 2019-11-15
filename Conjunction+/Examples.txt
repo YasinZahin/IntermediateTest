@@ -1,0 +1,6 @@
+Conjunction exaples: 
+@every one please determine conjunctions from below sentences and issue that.
+1. Please give me the red pen or the black pen
+2. I like his habits but he does not like my habits.
+3. I and Mohammad studied computer science in KDR university.
+4. Iam sad today because you are sick today.
